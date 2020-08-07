@@ -1,0 +1,9 @@
+---
+- name: SPIIR monitor project - test
+  hosts: all
+
+  tasks:
+
+  - name: Hello World!
+    shell: echo "hello, world!"
+
